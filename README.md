@@ -21,6 +21,8 @@ wxtoimg  官网链接 https://wxtoimgrestored.xyz/downloads
 # 3.如需正常使用，还需要设置OPTIONS--GROUND STATION LOCATION,以及OPTIONS--MAP OVERLAY OPTIONS
 # 4.NOAA系列频率
 NOAA 15：137.620MHz
+
 NOAA 18：137.9125MHz
+
 NOAA 19：137.1MHz
 
