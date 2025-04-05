@@ -11,7 +11,7 @@ wxtoimg  官网链接 https://wxtoimgrestored.xyz/downloads
 升级密钥： CGHZ-PP9G-EAJZ-AWKK-NDNX
 详情及更多密钥可访问官网
 在软件HELP-ENTER UPGRADE KEY 输入激活码即可
-## 使用教程
+### 使用教程
 # 1.使用之前需要更新星历
  由于 根据官网描述 “ 修复下载 TLE / Keplers 的错误
 2022 年 7 月 4 日，celetrak.com 更改了他们的域以重定向到 celetrak.org。这开始导致下载最新的 TLE/Keplers 时出错。以下是一些修复程序，可解决 WXtoImg 在尝试更新时遇到的错误。”
