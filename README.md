@@ -16,7 +16,7 @@ wxtoimg  官网链接 https://wxtoimgrestored.xyz/downloads
  由于 根据官网描述 “ 修复下载 TLE / Keplers 的错误
 2022 年 7 月 4 日，celetrak.com 更改了他们的域以重定向到 celetrak.org。这开始导致下载最新的 TLE/Keplers 时出错。以下是一些修复程序，可解决 WXtoImg 在尝试更新时遇到的错误。”
  需要下载wxtoproxy来更新星历
- 官网链接 https://wxtoimgrestored.xyz/other-software/
+ 官网链接  https://wxtoimgrestored.xyz/other-software
 2. 下载好后把wxtoproxy放在wxtoimg安装目录下，之后运行wxtoproxy打开软件，在OPTIONS--INTERNET OPTIONS下设置地址为127.0.0.1，端口号为8080，在FILE--UPDATE KEPLERS即可更新星历
 3.如需正常使用，还需要设置OPTIONS--GROUND STATION LOCATION,以及OPTIONS--MAP OVERLAY OPTIONS
 4.NOAA系列频率
